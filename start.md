@@ -1,8 +1,10 @@
-# Python教程
+# 主要内容
 
-> An python project.
+本文档主要介绍学习过程中的笔记，以便于后续的回顾。
 
-本文档主要介绍[Python](https://www.python.org/)的基本操作和一些库。如[pandas](https://pandas.pydata.org/)、numpy等。
+* [Java](articles/java/home)
+* [Python](articles/python/home)
+* [机器学习](articles/ml/home)
 
 # 贡献者
 
@@ -23,4 +25,8 @@
 
 # 鸣谢
 
-感谢团队的所有参与者和每一个支持的人。
+感谢所有参与者和每一个支持的人。
+
+> 也许所有的努力不一定有结果，但至少会离希望更近一点。
+
+[蒲公英](/_source/videos/video-1.mp4 ':include :type=mp4')

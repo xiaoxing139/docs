@@ -1,7 +1,5 @@
 # Python教程
 
-> An python project.
-
 本文档主要介绍[Python](https://www.python.org/)的基本操作和一些库。如[pandas](https://pandas.pydata.org/)、numpy等。
 
 # 贡献者

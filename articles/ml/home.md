@@ -1,8 +1,6 @@
-# Python教程
+# Machine Learning
 
-> An python project.
-
-本文档主要介绍[Python](https://www.python.org/)的基本操作和一些库。如[pandas](https://pandas.pydata.org/)、numpy等。
+本文档主要记录机器学习中的算法。
 
 # 贡献者
 
