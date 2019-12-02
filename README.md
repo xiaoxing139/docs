@@ -1,26 +1,26 @@
-# Python教程
+# Documents
 
-> An python project.
+> 这是一个应用[docsify](https://docsify.js.org)搭建的文档库。
 
-本文档主要介绍[Python](https://www.python.org/)的基本操作和一些库。如[pandas](https://pandas.pydata.org/)、numpy等。
+本库是一个文档库。主要记录学习过程中的笔记以及遇到的一些问题。帮助新手入门，了解知识点。
 
-# 贡献者
+记录自己的成长，及生活的点点滴滴。以方便后续的回顾与复习。包含的主要内容有Java、Python、机器学习、及大数据等方面。
 
-[king_xiao](https://xx139.ltd/bloga) 主要完成文档的书写、整理以及翻译等工作。
+# 参与者
 
-| 参与者                               | 主要贡献 |
-| ------------------------------------ | -------- |
-| [king_xiao](https://xx139.ltd/bloga) | 文档书写 |
-| xx                                   | 校对     |
+**King Xiao**主要完成文档的书写、整理以及翻译等工作。
 
-# 联系作者
+| 参与者        | 主要贡献 |
+| ------------- | -------- |
+| **King Xiao** | 文档书写 |
+| **King Xiao** | 校对     |
 
-[GitHub](https://github.com/xiaoxing139)
+# 联系方式
 
-[king_xiao博客](http://xx139.ltd/bloga)
-
-[CSDN](https://blog.csdn.net/xiaoxing139)
+[博客](http://xx139.ltd/bloga)&emsp;[CSDN](https://blog.csdn.net/xiaoxing139)
 
 # 鸣谢
 
-感谢团队的所有参与者和每一个支持的人。
+感谢每一个支持、帮助我的人，给予我信心，让我顺利进行，指导我成长。
+
+仅代表个人理解，欢迎批评指正。
