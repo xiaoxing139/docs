@@ -31,5 +31,5 @@
 >
 > 但至少会离希望更近一点。
 
-[奔跑的蒲公英](/_source/videos/video-1.mp4 ':include :type=iframe width=800px height=445px')
+[奔跑的蒲公英](https://github.com/xiaoxing139/docs/blob/master/_source/videos/video-1.mp4?raw=true ':include :type=mp4 width=792px height=445px controls=controls')
 
